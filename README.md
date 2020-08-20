@@ -10,8 +10,7 @@
 <br />
 <br />
 
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 📕 Latest Releases
 
----
+
+  - [List](https://github.com/pxtrick05/.NET-Deobfuscator) - .NET Deobfuscator List
