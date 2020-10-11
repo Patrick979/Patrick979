@@ -8,7 +8,7 @@
 ---
 ## Current Project list
 - 🥘 Euphoria Technology > Simple C# Obfuscator.
-- 🔥 PC-Cleaner
+- 🔥 PC-Cleaner > Cleans your PC from Junkcode.
 
 <br />
 <br />
