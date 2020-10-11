@@ -6,6 +6,9 @@
 - 👯 I'm looking to collaborate with other content creators
 
 ---
+## Current Project list
+- 🥘 Euphoria Technology > Simple C# Obfuscator.
+- 🔥 PC-Cleaner
 
 <br />
 <br />
