@@ -1,6 +1,6 @@
 ### Hi there, I'm Patrick 👋
 
-## Visual Basic & C# Developer!
+## C# Developer!
 - 🔭 I'm currently working on a Obfuscator Base
 - 🌱 Trying to learn the basics of ".NET Reverse Engineering"
 - 👯 I'm looking to collaborate with other content creators
