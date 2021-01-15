@@ -20,3 +20,5 @@
 
 
   - [List](https://github.com/pxtrick05/.NET-Deobfuscator) - .NET Deobfuscator List
+  - [RaspberryPI Debloater](https://github.com/Patrick979/RPi-Debloater) - Removes RPi Bloatware
+  - [Windows 10 Scripts](https://github.com/Patrick979/WinScripts) - Useful Windows Scripts.
