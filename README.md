@@ -1,14 +1,17 @@
 ### Hi there, I'm Patrick 👋
 
 ## C# Developer!
-- 🔭 I'm currently working on a Obfuscator Base
-- 🌱 Trying to learn the basics of ".NET Reverse Engineering"
-- 👯 I'm looking to collaborate with other content creators
-
+- 🔭 Currently working on different Projects.
+- 🌱 Hobbyistic Programmer.
+- 👯 Looking Forward to colloaborate with others!
+---
+<img src="https://github-readme-stats.vercel.app/api?username=Patrick979&&show_icons=true&title_color=0099ff&text_color=daf7dc&bg_color=000f1a">
 ---
 ## Current Project list
-- 🥘 Euphoria Technology > Simple C# Obfuscator.
-- 🔥 PC-Cleaner > Cleans your PC from Junkcode.
+- ⭐ RaspberryPI 4 Scripts
+- 🔥 PC Cleaner 
+- ✔ Windows10 Scripts
+
 
 <br />
 <br />
