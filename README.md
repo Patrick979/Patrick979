@@ -1,6 +1,6 @@
 ### Hi there, I'm Patrick 👋
 
-## C# Developer!
+## About
 - 🔭 Currently working on different Projects.
 - 🌱 Hobby Developer.
 - 👯 Looking Forward to colloaborate with others!
