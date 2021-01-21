@@ -18,5 +18,3 @@ I'm looking forward to contribute toward the open-source community with many dif
 
   - [List](https://github.com/pxtrick05/.NET-Deobfuscator) - .NET Deobfuscator List
   - [RaspberryPI Debloater](https://github.com/Patrick979/RPi-Debloater) - Removes RPi Bloatware
-
-<img src="https://github-readme-stats.vercel.app/api?username=Patrick979&&show_icons=true&title_color=0099ff&text_color=daf7dc&bg_color=000f1a">
