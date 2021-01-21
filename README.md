@@ -7,11 +7,6 @@
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=Patrick979&&show_icons=true&title_color=0099ff&text_color=daf7dc&bg_color=000f1a">
 
-## 💪 Projects im Working on
-
-
-<br />
-<br />
 
 ## 📕 Latest Releases
 
