@@ -10,9 +10,7 @@
 
 ---
 ## 🌟 Projects.
-Im looking forward to contribute toward the open-source community with many different tools.
-Sadly im a little bit uncreative in the past time so i dont have any good idea yet.
-Contributions will follow asap.
+I'm looking forward to contribute toward the open-source community with many different tools. Sadly, I'm a little bit uncreative in the past time, so I don't have any good idea yet. Contributions will follow asap.
 
 ---
 
