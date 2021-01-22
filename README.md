@@ -8,11 +8,8 @@
 - 👯 Looking Forward to colloaborate with others!
 - ⚡ Interested in solving IT-Problems, Opsec, Reverse Engineering and Programming.
 
----
 ## 🌟 Projects.
 I'm looking forward to contribute toward the open-source community with many different tools. Sadly, I'm a little bit uncreative in the past time, so I don't have any good idea yet. Contributions will follow asap.
-
----
 
 ## 📕 Latest Releases
 
