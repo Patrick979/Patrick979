@@ -3,7 +3,7 @@
 ## 💻 About
 - 🔭 Currently working on different Projects.
 - 🌱 Hobby Developer.
-    - Visual Basic / CSharp (.NET)
+    - CSharp
     - PHP
 - 👯 Looking Forward to colloaborate with others!
 - ⚡ Interested in solving IT-Problems, Opsec, Reverse Engineering and Programming.
