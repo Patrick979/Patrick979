@@ -4,7 +4,6 @@
 - 🔭 Currently working on different Projects.
 - 🌱 Hobby Developer.
     - CSharp
-    - PHP
 - 👯 Looking Forward to colloaborate with others!
 - ⚡ Interested in solving IT-Problems, Opsec, Reverse Engineering and Programming.
 
@@ -13,5 +12,5 @@ I'm looking forward to contribute toward the open-source community with many dif
 
 ## 📕 Latest Releases
 
-  - [List](https://github.com/pxtrick05/.NET-Deobfuscator) - .NET Deobfuscator List
-  - [RaspberryPI Debloater](https://github.com/Patrick979/RPi-Debloater) - Removes RPi Bloatware
+  - [.NET Deobfuscators](https://github.com/pxtrick05/.NET-Deobfuscator) - A List of Tools for useful .NET Reverse Engineering
+  - [RaspberryPI Debloater](https://github.com/Patrick979/RPi-Debloater) - A Simple Tool for debloating the RaspberryPI
