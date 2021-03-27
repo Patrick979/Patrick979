@@ -4,7 +4,7 @@
 - 🔭 Currently working on different Projects.
 - 🌱 Hobby Developer.
     - CSharp
-- 👯 Looking Forward to colloaborate with others!
+- 👯 Looking Forward to collaborate with others!
 - ⚡ Interested in solving IT-Problems, Opsec, Reverse Engineering and Programming.
 
 ## 🌟 Projects.
